@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Learning That I Love To Code"
-date:       2018-12-16 03:40:55 +0000
+date:       2018-12-15 22:40:55 -0500
 permalink:  learning_that_i_love_to_code
 ---
 
@@ -10,7 +10,7 @@ Hello, world. I’m Stef.
 
 I started coding about a year ago at work. 
 
-It's not that it was a part of my job, per se. It's just that I had a problem: I was spending tens of hours doing repetitive taks in Excel. I was stiching the same reports together by hand day after day, week after week. Frankly, it was boring, and it sucked.
+It's not that coding was a part of my job, per se. It's just that I had a problem: I was spending tens of hours doing repetitive taks in Excel. I was stiching the same reports together by hand day after day, week after week. Frankly, it was boring, and it sucked.
 
 So I started playing around with the macro recording feature in Excel, and I started poking around at the code that using that ‘record’ feature produced. This really made code click for me--I could see exactly what I knew so well in Excel written out in code format. And I was automating away all my own pain.
 
