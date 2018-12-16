@@ -9,7 +9,7 @@ permalink:  first_portfolio_project_scraping_hiking_upward
 
 I started my first portfolio project  three weeks ago. And I think I (basically) finished today!
 
-I felt really nervous about starting this project. I felt anxious about coding without the safety net of the tests. As it turns out, it was totally fun and I was totally ready to do it.
+I felt anxious about coding without the safety net of the tests. As it turns out, it was totally fun and I was totally ready to do it.
 
 Here are a few things I wish I could have known at the beginning.
 
