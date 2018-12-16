@@ -1,11 +1,11 @@
 # Site settings
-author: Stef Claus
-title: 
+author: Stef Claus 
+title: Stef's Blog 
 header-img: img/home-bg.png
 email: stef.claus@gmail.com
-copyright_name: Stef Claus
+copyright_name: Stef Claus 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to Code in DC
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  stefclaus
