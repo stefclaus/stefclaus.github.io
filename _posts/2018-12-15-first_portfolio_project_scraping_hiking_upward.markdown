@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Portfolio Project: Scraping Hiking Upward "
-date:       2018-12-16 04:25:56 +0000
+date:       2018-12-15 23:25:57 -0500
 permalink:  first_portfolio_project_scraping_hiking_upward
 ---
 
@@ -19,7 +19,7 @@ I skated through the Ruby lessons without a through and deep understanding of ho
 
 I pretty quickly figured it out over the course of this project. I feel really good about using it now, but I wished I had used it more intensively before: that would have saved me some time. (I think there is also a study group on this topic.)
 
-2. **You're going to need at least a little bit of command line. **
+2.  **You're going to need at least a little bit of command line. **
 
 I learned my command line from Learning Python The Hard Way (so thanks, Zed) but it's not taught here formally (I think? Possible I missed it.) You're not going to know a ton, but you should at least know: 
 
