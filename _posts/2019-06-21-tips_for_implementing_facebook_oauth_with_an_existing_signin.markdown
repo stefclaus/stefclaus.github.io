@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Tips For Implementing Facebook OAuth With An Existing Signin"
-date:       2019-06-21 14:02:43 +0000
+date:       2019-06-21 10:02:44 -0400
 permalink:  tips_for_implementing_facebook_oauth_with_an_existing_signin
 ---
 
@@ -59,6 +59,13 @@ I also added this route to my routes file:
 
 ```
 
+From there, I was albe to successfully login via the link on my welcome view:
+
+```
+<%= link_to('Log in with Facebook!', '/auth/facebook') %>
+```
+
+Voila! 
 
 I've really enjoyed my time with rails--so much magic!-- and I hope I get the chance to use it professionally. 
 
