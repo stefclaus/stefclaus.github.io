@@ -90,7 +90,7 @@ To understand hoising, you need to understand that JavaScript runs in two distin
 
 During the compliation phase, JavaScript ignores all function invocation and just stores everything in memory. Then in the execution phase, Javascript moves throught the functions stored in memory and invokes them. This is what hoising is--it can sort of feel like JavaScript is 'hoisting' all variable declartaions to the top of our code  (even though that's not excatly what is happening.)
 
-With var, is that JavaScript will allow you to reference variables before they've been initalized. (We don't see that issue with const and let).
+With var, JavaScript will allow you to reference variables before they've been initalized. (We don't see that issue with const and let).
 
 Consider the below code, taken from an example from the Flatiron curriculum.
 
@@ -101,7 +101,7 @@ function myFunc () {
   var hello = 'World!';
 
  
-  return hello;
+  return hello}
 	
 
 ```
@@ -116,7 +116,7 @@ Yikes, what happened to our nice console.log?
 
 We see LOG: undefined because var gets assigned 'unknown' during the complitaion phase. Then it begins the executiton phase step-by-step, which means that when it reaches the console.log line, it is still unknown, but it is known during the return line.
 
-This gets cleared up when we use let or const. Consider the same code, but using const:
+What happens when we use const in the same example? Consider the same code, but using const:
 
 ```
 function myFunc () {
