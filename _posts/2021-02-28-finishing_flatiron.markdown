@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Finishing Flatiron"
-date:       2021-02-28 19:15:21 +0000
+date:       2021-02-28 14:15:21 -0500
 permalink:  finishing_flatiron
 ---
 
